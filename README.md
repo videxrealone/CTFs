@@ -43,7 +43,7 @@ Intermediate
 
 ## Securinets CTF League 2021
 
-* **Difficulty
+* **Difficulty**
 ```
 Intermediate
 ```
