@@ -1,11 +1,11 @@
-# CTFs
+# Capture The Flag Events Timeline
 ----
 
 ## Engineers Spark Cybermaze 2021 (IRL Based CTF)
-* **Difficulty
+* **Difficulty**
 
 ```
-Intermediate
+Beginner
 ```
 
 * **Rank** 
@@ -21,7 +21,7 @@ N/A
 ```
 
 ## Engineers Spark CTF
-* **Difficulty
+* **Difficulty**
 ```
 Intermediate
 ```
@@ -34,6 +34,9 @@ Intermediate
 
 * **Solved Tasks**
 
+```
+7
+```
 ##
 
 
@@ -56,10 +59,11 @@ Intermediate
 50
 ```
 
-## Securinets CTF 2022
-* **Difficulty
+## Securinets CTF 2022 (Ongoing)
+* **Difficulty**
+
 ```
-Beginner
+Intermediate
 ```
 
 * **Rank** 
@@ -69,8 +73,26 @@ Beginner
 ```
 
 * **Solved Tasks**
+
 ```
 70
 ```
 
-##
+# TUCTF 2022
+* **Difficulty**
+
+```
+Intermediate / Hard
+```
+
+* **Rank** 
+
+```
+???
+```
+
+* **Solved Tasks**
+
+```
+???
+```
