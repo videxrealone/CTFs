@@ -20,7 +20,7 @@ N/A
 3/5 
 ```
 
-## Engineers Spark CTF
+## Engineers Spark CTF (Onsite)
 * **Difficulty**
 ```
 Intermediate
@@ -41,7 +41,7 @@ Intermediate
 
 
 
-## Securinets CTF League 2021
+## Securinets Esprit CTF League 2021 (Online)
 
 * **Difficulty**
 ```
@@ -59,7 +59,7 @@ Intermediate
 50
 ```
 
-## Securinets CTF 2022 (Ongoing)
+## Securinets Esprit CTF 2022 (Online)
 * **Difficulty**
 
 ```
@@ -78,11 +78,49 @@ Intermediate
 70
 ```
 
-# TUCTF 2022
+# TUCTF 2022 (International)
 * **Difficulty**
 
 ```
 Intermediate / Hard
+```
+
+* **Rank** 
+
+```
+156
+```
+
+* **Solved Tasks**
+
+```
+7
+```
+
+# Securinets INSAT Mini CTF 2022 (Onsite)
+* **Difficulty**
+
+```
+Hard
+```
+
+* **Rank** 
+
+```
+8th out of 50 teams
+```
+
+* **Solved Tasks**
+
+```
+10
+```
+
+# Securinets Esprit Mini CTF 2022 (Onsite)
+* **Difficulty**
+
+```
+Intermediate
 ```
 
 * **Rank** 
@@ -96,3 +134,6 @@ Intermediate / Hard
 ```
 ???
 ```
+
+
+
