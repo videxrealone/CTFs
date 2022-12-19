@@ -126,13 +126,13 @@ Intermediate
 * **Rank** 
 
 ```
-???
+4th
 ```
 
 * **Solved Tasks**
 
 ```
-???
+16
 ```
 
 
