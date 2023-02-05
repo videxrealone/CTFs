@@ -135,5 +135,41 @@ Intermediate
 16
 ```
 
+# Securiday by TT x Keystone Group CTF 2023 (Onsite)
+* **Difficulty**
 
+```
+Very Hard (Tasks are inspired from real world cases such as industrial logs and machines pentesting)
+```
+
+* **Rank** 
+
+```
+8th
+```
+
+* **Solved Tasks**
+
+```
+9
+```
+
+# ENIT Got the Flag 1.0 CTF (Onsite)
+* **Difficulty**
+
+```
+Intermediate
+```
+
+* **Rank** 
+
+```
+11th
+```
+
+* **Solved Tasks**
+
+```
+27
+```
 
